@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="https://ykprog27.github.io/">
-    <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
