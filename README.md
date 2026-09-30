@@ -56,8 +56,16 @@
 ---
 # 📊 Project Highlights
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/20.7M-Flights%20Analyzed-0A66C2?style=for-the-badge&logo=airplane&logoColor=white](https://img.shields.io/badge/20.7M-Flights%20Analyzed-0A66C2?style=for-the-badge\&logo=airplane\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/7-End--to--End%20Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/7-End--to--End%20Projects-2EA44F?style=for-the-badge\&logo=github\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/2-Data%20Engineering%20Trainings-FFB000?style=for-the-badge&logo=apacheairflow&logoColor=white](https://img.shields.io/badge/2-Data%20Engineering%20Trainings-FFB000?style=for-the-badge\&logo=apacheairflow\&logoColor=white)"/> \</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/20.7M-Flights%20Analyzed-0A66C2?style=for-the-badge&logo=airplane&logoColor=white" />
+  <img src="https://img.shields.io/badge/7-End--to--End%20Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/2-Data%20Engineering%20Trainings-FFB000?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
 
-\<p align="center">   \<b>🚀 Building real-world Data Engineering & Big Data solutions\</b> \</p>
+<p align="center">
+  <b>🚀 Building real-world Data Engineering & Big Data solutions</b>
+</p>
 
-\<p align="center">   From data ingestion and ETL pipelines to processing, APIs, databases, and interactive dashboards. \</p>
+<p align="center">
+  From data ingestion and ETL pipelines to processing, APIs, databases, and interactive dashboards.
+</p>
