@@ -54,36 +54,10 @@
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A7C9?style=for-the-badge&logo=apachesuperset&logoColor=white)
 
 ---
+# 📊 Project Highlights
 
-# 📊 GitHub Stats
+\<p align="center">   \<img src="[https://img.shields.io/badge/20.7M-Flights%20Analyzed-0A66C2?style=for-the-badge&logo=airplane&logoColor=white](https://img.shields.io/badge/20.7M-Flights%20Analyzed-0A66C2?style=for-the-badge\&logo=airplane\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/7-End--to--End%20Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/7-End--to--End%20Projects-2EA44F?style=for-the-badge\&logo=github\&logoColor=white)"/>   \<img src="[https://img.shields.io/badge/2-Data%20Engineering%20Trainings-FFB000?style=for-the-badge&logo=apacheairflow&logoColor=white](https://img.shields.io/badge/2-Data%20Engineering%20Trainings-FFB000?style=for-the-badge\&logo=apacheairflow\&logoColor=white)"/> \</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ykprog27&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=ykprog27&theme=dark&hide_border=true" height="180"/>
-</p>
+\<p align="center">   \<b>🚀 Building real-world Data Engineering & Big Data solutions\</b> \</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ykprog27&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ykprog27&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykprog27&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-![](https://komarev.com/ghpvc/?username=ykprog27&icon=0&color=0)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+\<p align="center">   From data ingestion and ETL pipelines to processing, APIs, databases, and interactive dashboards. \</p>
